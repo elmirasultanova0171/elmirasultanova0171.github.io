@@ -2,17 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on LAB 4</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://elmirasultanova0171.github.io/posts/</link>
     <description>Recent content in Posts on LAB 4</description>
     <generator>Hugo -- 0.135.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Oct 2024 21:08:19 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Oct 2024 21:41:18 +0300</lastBuildDate>
+    <atom:link href="https://elmirasultanova0171.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Page2</title>
+      <link>https://elmirasultanova0171.github.io/posts/page2/</link>
+      <pubDate>Sun, 13 Oct 2024 21:41:18 +0300</pubDate>
+      <guid>https://elmirasultanova0171.github.io/posts/page2/</guid>
+      <description>&lt;p&gt;Vilnius Tech logo:
+&lt;img loading=&#34;lazy&#34; src=&#34;https://elmirasultanova0171.github.io/posts/vgtu.png&#34; alt=&#34;image&#34;  /&gt;
+&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;hello_world&lt;/span&gt;():
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    print(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, Vilnius Tech!&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
     <item>
       <title>PAGE ONE</title>
-      <link>http://localhost:1313/posts/page1/</link>
+      <link>https://elmirasultanova0171.github.io/posts/page1/</link>
       <pubDate>Sun, 13 Oct 2024 21:08:19 +0300</pubDate>
-      <guid>http://localhost:1313/posts/page1/</guid>
+      <guid>https://elmirasultanova0171.github.io/posts/page1/</guid>
       <description>&lt;p&gt;You can also create page files with an md extension from another program, but the hugo new command
 will immediately save meta data to the page (page title, date, and status). Open the created file. Change
 the title and status (draft: false). After the meta data, write a couple of sentences. Save the file. Start the
