@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>LAB 4</title>
-    <link>elmirasultanova0171.github.io/</link>
+    <link>https://elmirasultanova0171.github.io/</link>
     <description>Recent content on LAB 4</description>
     <generator>Hugo -- 0.135.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 13 Oct 2024 21:08:19 +0300</lastBuildDate>
-    <atom:link href="elmirasultanova0171.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://elmirasultanova0171.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PAGE ONE</title>
-      <link>elmirasultanova0171.github.io/posts/page1/</link>
+      <link>https://elmirasultanova0171.github.io/posts/page1/</link>
       <pubDate>Sun, 13 Oct 2024 21:08:19 +0300</pubDate>
-      <guid>elmirasultanova0171.github.io/posts/page1/</guid>
+      <guid>https://elmirasultanova0171.github.io/posts/page1/</guid>
       <description>&lt;p&gt;You can also create page files with an md extension from another program, but the hugo new command
 will immediately save meta data to the page (page title, date, and status). Open the created file. Change
 the title and status (draft: false). After the meta data, write a couple of sentences. Save the file. Start the
